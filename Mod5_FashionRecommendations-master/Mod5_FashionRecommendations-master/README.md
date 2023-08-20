@@ -1,6 +1,6 @@
 # Mod5: Fashion Recommendations
 
-## This Project is s abubmission from Team C-- 
+## This Project is a submission from Team C-- 
 * [Bhavesh Misra](https://github.com/Zekrom-7780)
 * [Srigopal Sarda](https://github.com/Srigopalsarda)
 * [Vikhyat singh Gaur](https://github.com/vikhyatsinghgaur)
