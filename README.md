@@ -1,4 +1,4 @@
-# Mod5: Fashion Recommendations
+# Mod5: Fashion Recommendation Engine
 
 ## This Project is a submission from Team C-- 
 * [Bhavesh Misra](https://github.com/Zekrom-7780)
