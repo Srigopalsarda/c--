@@ -1,10 +1,9 @@
 # Mod5: Fashion Recommendations
 
-A standalone HTTP web server that can recommend similar fashion outfits, based on the the [Rent the Runway](https://www.renttherunway.com/) inventory.
+## This Project is s abubmission from Team C-- (github links of all 3 peoples ) for FlipKart Grid 5.0, it's biggest edition yet, for the Software Development Track 
+A standalone HTTP web server that can recommend similar fashion outfits.
 
 Uses multiple neural networks (with a ResNet50 backbone) behind the scenes to classify inputs by {category, texture, fabric, parts, shape}. The resulting embeddings are then used to query a pre-built nearest neighbors index for similar outputs.
-
-To try the recommendation system without cloning the repo, see this [live demo](https://fashionrecs.samantha.codes/home)
 
 ## Installation
 
@@ -45,10 +44,3 @@ recs = fashion.get_recs(img_path)
 * [recommender_app.py](https://github.com/MsJacksonIYN/Mod5_FashionRecommendations/blob/master/recommender_app.py) - Spins up a Flask App to serve recommendations 
 * [predict.py](https://github.com/MsJacksonIYN/Mod5_FashionRecommendations/blob/master/predict.py) - Recommendation System
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
