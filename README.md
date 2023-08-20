@@ -5,10 +5,10 @@
 * [Srigopal Sarda](https://github.com/Srigopalsarda)
 * [Vikhyat singh Gaur](https://github.com/vikhyatsinghgaur)
 
-for FlipKart Grid 5.0, it's biggest edition yet, for the Software Development Track 
+For Flipkart Grid 5.0, it's the biggest edition yet, for the Software Development Track 
 A standalone HTTP web server that can recommend similar fashion outfits.
 
-Uses multiple neural networks (with a ResNet50 backbone) behind the scenes to classify inputs by {category, texture, fabric, parts, shape}. The resulting embeddings are then used to query a pre-built nearest neighbors index for similar outputs.
+Uses multiple neural networks (with a ResNet50 backbone) behind the scenes to classify inputs by {category, texture, fabric, parts, shape}. The resulting embeddings are then used to query a pre-built nearest neighbours index for similar outputs.
 
 ## Installation
 
