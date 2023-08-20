@@ -1,6 +1,11 @@
 # Mod5: Fashion Recommendations
 
-## This Project is s abubmission from Team C-- (github links of all 3 peoples ) for FlipKart Grid 5.0, it's biggest edition yet, for the Software Development Track 
+## This Project is s abubmission from Team C-- 
+* [Bhavesh Misra](https://github.com/Zekrom-7780)
+* [Srigopal Sarda](https://github.com/Srigopalsarda)
+* [Vikhyat singh Gaur](https://github.com/vikhyatsinghgaur)
+
+for FlipKart Grid 5.0, it's biggest edition yet, for the Software Development Track 
 A standalone HTTP web server that can recommend similar fashion outfits.
 
 Uses multiple neural networks (with a ResNet50 backbone) behind the scenes to classify inputs by {category, texture, fabric, parts, shape}. The resulting embeddings are then used to query a pre-built nearest neighbors index for similar outputs.
